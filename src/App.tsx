@@ -1,5 +1,5 @@
-import { Evento } from "./pages/Evento";
+import { Event } from "./pages/Event";
 
 export function App() {
-  return <Evento />
+  return <Event />
 }
